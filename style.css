@@ -1,0 +1,45 @@
+.fa {
+    padding: 30px;
+    font-size: 40px;
+    width: auto;
+    text-align: center;
+    margin:5px 2px;
+    border-radius: 50%;
+    text-decoration: none;
+}
+.fa:hover {
+    opacity: 0.8;
+    
+}
+.fa-facebook {
+    background-color: #5534eb;
+    color: white;
+}
+.fa-twitter {
+    background-color: lightblue;
+    color: white;
+}
+.fa-google {
+    background-color: orange;
+    color: white;
+}
+.fa-linkedin {
+    background-color: blue;
+    color: white;
+}
+.fa-youtube {
+    background-color: red;
+    color: white;
+}
+.fa-instagram {
+    background-color: yellow;
+    color: white;
+}
+.fa-whatsapp {
+    background-color: green;
+    color: white;
+}
+.fa-wikipedia-w{
+    background-color: white;
+    color: black;
+}
